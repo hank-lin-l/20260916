@@ -1,0 +1,6 @@
+{
+  "name": "國友工業 | 精密齒輪與傳動系統製造專家",
+  "description": "台灣高精度齒輪與精密減速機製造專家，專注DIN 4-6級齒研工藝、行星減速機、傘齒輪與客製傳動箱，提供一站式全製程與蔡司三次元全檢。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
